@@ -1,0 +1,25 @@
+Ai Use Disclosure 
+
+AI Tool Used: ChatGPT
+
+Purpose of Use:
+
+1. Clarifying IUPAC naming rules and conventions.
+2. Understanding the selection of the longest carbon chain and identification of substituents.
+3. Improving explanations and wording. 
+
+Other Tool Used: The Alkane
+
+Purpose of Use:
+
+1. Generating IUPAC names from drawn molecular structures.
+2. Checking the systematic names of branched and cyclic alkanes.
+3. Comparing generated names with the given names.
+4. Helping identify naming differences and possible errors.
+
+Reference for Naming Tool:
+
+The Alkane. (n.d.). The Alkane: IUPAC name generator [Web application]. Retrieved November 1, 2026, from https://thealkane.com/
+
+
+AI was used as a supplementary learning and writing tool. All molecular structures, generated names, and final answers were reviewed and verified by the student.
